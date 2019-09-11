@@ -1,0 +1,9 @@
+# ignore some types of files.
+# focus on the data and the config (YAML) files.
+
+#ignore results (which are generated)
+results*
+
+#ignore hdf5 and .json files (which are generated)
+*.hdf5
+*.json

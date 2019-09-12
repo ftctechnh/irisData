@@ -15,4 +15,4 @@ output_features:
         type: category
 
 training:
-    epochs: 3000
+    epochs: 30
